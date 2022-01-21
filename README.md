@@ -1,3 +1,10 @@
+# What is This Repository About
+
+You Can Search Github Users and you can get some simple user informations about it.
+
+![git-user-searcher](https://user-images.githubusercontent.com/67079251/150595510-944a6bde-76ad-4ec9-bc10-58b6d39ceb0b.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
